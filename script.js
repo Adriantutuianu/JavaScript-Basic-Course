@@ -33,3 +33,7 @@ pizza = pizza + 1;
 // Incrementation
 var pizza = 1;
 pizza++;
+
+// Decrement- decrease a number
+var pizza = 2;
+pizza--;
