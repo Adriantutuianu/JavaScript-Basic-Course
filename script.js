@@ -9,4 +9,8 @@ document.write(x);
 
 // Storing true or false
 var JS_sucks = false;
-var JS_rocks="true"  \\Boolean
+document.write("<br>");
+
+// Storing a number
+var age = 22;
+document.write(age);
