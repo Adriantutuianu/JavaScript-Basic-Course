@@ -29,3 +29,7 @@ document.write("<br>");
 
 var pizza = 1;
 pizza = pizza + 1;
+
+// Incrementation
+var pizza = 1;
+pizza++;
