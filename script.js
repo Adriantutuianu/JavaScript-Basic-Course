@@ -1,8 +1,12 @@
 document.write("Hello World");
 document.write("<br>");
-// Variable
+// Variable- storing a word.
 var x = "Programming Hub";
 document.write(x);
 document.write("<br>");
 document.write("\n");
 document.write(x);
+
+// Storing true or false
+var JS_sucks = false;
+var JS_rocks="true"  \\Boolean
