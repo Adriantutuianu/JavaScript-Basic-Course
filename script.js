@@ -17,3 +17,9 @@ document.write(age);
 
 var without_decimal = 10;
 var with_decimal = 11.07;
+
+document.write("<br>");
+// Math calculation
+var z = x - y;
+var z = x / y;
+var z = x % y;
