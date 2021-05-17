@@ -23,3 +23,9 @@ document.write("<br>");
 var z = x - y;
 var z = x / y;
 var z = x % y;
+
+document.write("<br>");
+// Adding and substracting one
+
+var pizza = 1;
+pizza = pizza + 1;
