@@ -14,3 +14,6 @@ document.write("<br>");
 // Storing a number
 var age = 22;
 document.write(age);
+
+var without_decimal = 10;
+var with_decimal = 11.07;
