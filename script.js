@@ -52,3 +52,12 @@ if (x > y) {
 } else {
   document.write("x isn`t greater than y");
 }
+
+// Array introduction
+
+var wish1 = "Swim in the world`s largest swimming pool";
+var wish2 = " Do skydiving";
+
+// Array
+var array_strings = ["go skydiving", "visit Paris"];
+var array_numbers = [24, 25, 12, 51];
