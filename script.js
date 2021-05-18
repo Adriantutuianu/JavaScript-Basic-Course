@@ -43,3 +43,10 @@ pizza--;
 var mp = 5;
 var gb = 16;
 mp > 5 && gb > 16;
+
+// Condition if else 
+if (condition) {
+	Task to be performed if the condition is true.
+}else{
+	Task to be performed if the condition is false.
+}
