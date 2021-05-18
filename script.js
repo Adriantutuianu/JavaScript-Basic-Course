@@ -57,7 +57,10 @@ if (x > y) {
 
 var wish1 = "Swim in the world`s largest swimming pool";
 var wish2 = " Do skydiving";
+document.write("<br>");
 
 // Array
 var array_strings = ["go skydiving", "visit Paris"];
 var array_numbers = [24, 25, 12, 51];
+var students = ["Ashley", "John", "Tim", "Mac", "Wesley"];
+document.write(students[0]);
