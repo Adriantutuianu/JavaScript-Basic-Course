@@ -20,6 +20,7 @@ var with_decimal = 11.07;
 
 document.write("<br>");
 // Math calculation
+var z = x + y;
 var z = x - y;
 var z = x / y;
 var z = x % y;
@@ -37,3 +38,8 @@ pizza++;
 // Decrement- decrease a number
 var pizza = 2;
 pizza--;
+
+// comparison
+var mp = 5;
+var gb = 16;
+mp > 5 && gb > 16;
