@@ -44,9 +44,11 @@ var mp = 5;
 var gb = 16;
 mp > 5 && gb > 16;
 
-// Condition if else 
-if (condition) {
-	Task to be performed if the condition is true.
-}else{
-	Task to be performed if the condition is false.
+// example if else
+var x = 23;
+var y = 43;
+if (x > y) {
+  document.write("x is greater than y");
+} else {
+  document.write("x isn`t greater than y");
 }
