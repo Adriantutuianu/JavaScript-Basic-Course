@@ -71,3 +71,11 @@ var i;
 for (i = 1; i <= 10; i++) {
   document.write("I love JavaScript");
 }
+document.write("<br>");
+
+// Repeat- loop- while  Example
+var i = 1;
+do {
+  document.write("I love JavaScript");
+  i = i + 1;
+} while (i <= 10);
