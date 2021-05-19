@@ -64,3 +64,10 @@ var array_strings = ["go skydiving", "visit Paris"];
 var array_numbers = [24, 25, 12, 51];
 var students = ["Ashley", "John", "Tim", "Mac", "Wesley"];
 document.write(students[0]);
+document.write("<br>");
+
+// Repeat - loop - for
+var i;
+for (i = 1; i <= 10; i++) {
+  document.write("I love JavaScript");
+}
