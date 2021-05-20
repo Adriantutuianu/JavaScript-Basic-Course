@@ -103,7 +103,9 @@ Function /
   function functionname() {
     code;
   };
+document.write("<br>");
 
 function print() {
   document.write("I know JavaScript");
 }
+print();
