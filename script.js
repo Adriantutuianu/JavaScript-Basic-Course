@@ -103,3 +103,7 @@ Function /
   function functionname() {
     code;
   };
+
+function print() {
+  document.write("I know JavaScript");
+}
