@@ -83,3 +83,6 @@ do {
 document.write("<br>");
 // Alert dialog box
 alert("I am a cool dude");
+
+// Prompt dialog box
+prompt("What is your name?");
