@@ -86,3 +86,6 @@ alert("I am a cool dude");
 
 // Prompt dialog box
 prompt("What is your name?");
+
+// Confirm dialog box
+confirm("Do you really want to delete this picture permanently?");
