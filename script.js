@@ -79,3 +79,7 @@ do {
   document.write("I love JavaScript");
   i = i + 1;
 } while (i <= 10);
+
+document.write("<br>");
+// Alert dialog box
+alert("I am a cool dude");
