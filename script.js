@@ -89,3 +89,12 @@ prompt("What is your name?");
 
 // Confirm dialog box
 confirm("Do you really want to delete this picture permanently?");
+
+var msg = "I am a cool dude";
+alert(msg);
+
+// Calculate
+var x = 2;
+var y = 3;
+var z = x + y;
+document.write(z);
