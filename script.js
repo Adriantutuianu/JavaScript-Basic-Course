@@ -109,3 +109,12 @@ function print() {
   document.write("I know JavaScript");
 }
 print();
+
+// Using an outside variable inside a function - Parameters
+document.write("<br>");
+
+function add(num1, num2) {
+  var result = num1 + num2;
+  document.write(result);
+}
+add(3, 4);
